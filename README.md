@@ -24,6 +24,6 @@ Ena av knapparna ska vara grön.
 Navigeringsmenyn ska ha en logga på vänstra sidan som även används som navigering tillbaka till startsidan. 
 På högra sidan ska det finnas 3 navigeringsalternativ, ni kan få döpa alla 3 själva!
 
-## 4. Modal component
+## 4. EXTRA - Modal component
 Modalen ska sitta i mitten av sidan och sidan bakom modalen ska mörkas ner för att minska fokuset på det runt omkring.
 I själva modal-rutan ska det finnas en titel, en text som säger något lustigt och en knapp för att stänga ner modalen.
