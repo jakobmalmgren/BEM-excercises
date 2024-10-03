@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(103, 142, 202);
+}
+.header__nav {
+  padding: 1rem 4rem 1rem 1rem;
+  display: flex;
+  background-color: rgb(94, 161, 94);
+  justify-content: space-between;
+  height: 4rem;
+}
+.header__list-wrapper {
+  display: flex;
+  width: 200px;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__list {
+  list-style: none;
+}
+.header__link {
+  color: black;
+  text-decoration: none;
+}
